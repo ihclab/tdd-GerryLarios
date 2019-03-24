@@ -1,0 +1,4 @@
+C:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento\obj\Debug\netstandard2.0\ordenamiento.csprojAssemblyReference.cache
+C:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento\obj\Debug\netstandard2.0\ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento\obj\Debug\netstandard2.0\ordenamiento.AssemblyInfoInputs.cache
+C:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento\obj\Debug\netstandard2.0\ordenamiento.AssemblyInfo.cs
