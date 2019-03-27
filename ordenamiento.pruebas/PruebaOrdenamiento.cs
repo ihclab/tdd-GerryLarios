@@ -7,9 +7,9 @@ namespace ordenamiento.pruebas
     {
         private int[] salidaEsperada = new int[] { 1,2,3,4,5 };
         private int[] salidaEsperada2 = new int[] { 1,1,1,1,1 };
-        private int[] salidaEsperada = new int[] { 1,3,4,4,5 };
+        private int[] salidaEsperada3 = new int[] { 1,3,4,4,5 };
 
-        private ordenamiento.burbuja ordenar = new ordenamiento.burbuja();
+        private ordenamiento.Burbuja ordenar = new ordenamiento.Burbuja();
 
         [TestMethod]
         public void TestInvertido()
