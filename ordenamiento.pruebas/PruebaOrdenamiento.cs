@@ -49,5 +49,21 @@ namespace ordenamiento.pruebas
             ordenar.Ordenar(entrada);
             CollectionAssert.AreEqual(salidaEsperada, entrada);
         }
+
+        [TestMethod]
+        public void TestElementoMismoValor()
+        {
+            int[] entrada = new int[] { 1,1,1,1,1 };
+            ordenar.Ordenar(entrada);
+            CollectionAssert.AreEqual(salidaEsperada2, entrada);
+        }
+
+        [TestMethod]
+        public void TestElementosRepetidos()
+        {
+            int[] entrada = new int[] { 1,3,4,5,4 };
+            ordenar.Ordenar(entrada);
+            CollectionAssert.AreEqual(salidaEsperada3, entrada);
+        }
     }
 }
