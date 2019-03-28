@@ -2,3 +2,8 @@ C:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento\obj\Debug\netsta
 C:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento\obj\Debug\netstandard2.0\ordenamiento.csproj.CoreCompileInputs.cache
 C:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento\obj\Debug\netstandard2.0\ordenamiento.AssemblyInfoInputs.cache
 C:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento\obj\Debug\netstandard2.0\ordenamiento.AssemblyInfo.cs
+c:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento\bin\Debug\netstandard2.0\ordenamiento.deps.json
+c:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento\bin\Debug\netstandard2.0\ordenamiento.dll
+c:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento\bin\Debug\netstandard2.0\ordenamiento.pdb
+c:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento\obj\Debug\netstandard2.0\ordenamiento.dll
+c:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento\obj\Debug\netstandard2.0\ordenamiento.pdb

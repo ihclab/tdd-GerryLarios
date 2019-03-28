@@ -1,0 +1,17 @@
+c:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento.pruebas\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento.pruebas\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento.pruebas\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento.pruebas\bin\Debug\netcoreapp2.2\ordenamiento.pruebas.deps.json
+c:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento.pruebas\bin\Debug\netcoreapp2.2\ordenamiento.pruebas.runtimeconfig.json
+c:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento.pruebas\bin\Debug\netcoreapp2.2\ordenamiento.pruebas.runtimeconfig.dev.json
+c:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento.pruebas\bin\Debug\netcoreapp2.2\ordenamiento.pruebas.dll
+c:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento.pruebas\bin\Debug\netcoreapp2.2\ordenamiento.pruebas.pdb
+c:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento.pruebas\bin\Debug\netcoreapp2.2\ordenamiento.dll
+c:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento.pruebas\bin\Debug\netcoreapp2.2\ordenamiento.pdb
+c:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento.pruebas\obj\Debug\netcoreapp2.2\ordenamiento.pruebas.csprojAssemblyReference.cache
+c:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento.pruebas\obj\Debug\netcoreapp2.2\ordenamiento.pruebas.csproj.CoreCompileInputs.cache
+c:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento.pruebas\obj\Debug\netcoreapp2.2\ordenamiento.pruebas.AssemblyInfoInputs.cache
+c:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento.pruebas\obj\Debug\netcoreapp2.2\ordenamiento.pruebas.AssemblyInfo.cs
+c:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento.pruebas\obj\Debug\netcoreapp2.2\ordenamiento.pruebas.csproj.CopyComplete
+c:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento.pruebas\obj\Debug\netcoreapp2.2\ordenamiento.pruebas.dll
+c:\Users\gerar\Desktop\6to\testing\tdd-GerryLarios\ordenamiento.pruebas\obj\Debug\netcoreapp2.2\ordenamiento.pruebas.pdb
