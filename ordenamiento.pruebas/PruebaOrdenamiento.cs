@@ -14,7 +14,7 @@ namespace ordenamiento.pruebas
         [TestMethod]
         public void TestInvertido()
         {
-            int[] entrada = new int[] { 5,4,3,2,1 }
+            int[] entrada = new int[] { 5,4,3,2,1 };
             ordenar.Ordenar(entrada);
             CollectionAssert.AreEqual(salidaEsperada, entrada);
         }
@@ -22,9 +22,10 @@ namespace ordenamiento.pruebas
         [TestMethod]
         public void TestOrdenado()
         {
-            int[] entrada = new int[] { 1,2,3,4,5 }
+            int[] entrada = new int[] { 1,2,3,4,5 };
             ordenar.Ordenar(entrada);
             CollectionAssert.AreEqual(salidaEsperada, entrada);
         }
+
     }
 }
