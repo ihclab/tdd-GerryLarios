@@ -27,5 +27,27 @@ namespace ordenamiento.pruebas
             CollectionAssert.AreEqual(salidaEsperada, entrada);
         }
 
+        [TestMethod]
+        public void TestDesordenado()
+        {
+            int[] entrada = new int[] { 1,3,2,4,5 };
+            ordenar.Ordenar(entrada);
+            CollectionAssert.AreEqual(salidaEsperada, entrada);
+        }
+        [TestMethod]
+        public void TestElementoPrincipio()
+        {
+            int[] entrada = new int[] { 5,1,3,2,4 };
+            ordenar.Ordenar(entrada);
+            CollectionAssert.AreEqual(salidaEsperada, entrada);
+        }
+
+        [TestMethod]
+        public void TestElementoFinal()
+        {
+            int[] entrada = new int[] { 2,3,4,5,1 };
+            ordenar.Ordenar(entrada);
+            CollectionAssert.AreEqual(salidaEsperada, entrada);
+        }
     }
 }
